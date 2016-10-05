@@ -1,0 +1,23 @@
+{
+  "name": "test_led_matrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+  "node": "6.2.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IRiViI/test_led_matrix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IRiViI/test_led_matrix/issues"
+  },
+  "homepage": "https://github.com/IRiViI/test_led_matrix#readme"
+}
